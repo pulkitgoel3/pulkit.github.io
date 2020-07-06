@@ -1,2 +1,2 @@
-# pulkit.github.io
+# pulkitgoel3.github.io
 My portfolio
